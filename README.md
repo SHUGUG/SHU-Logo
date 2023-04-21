@@ -1,6 +1,8 @@
 # SHU-Logo
 上海大学校徽校名Logo
 
+![shu-logo](https://github.com/SHUGUG/SHU-Logo/raw/main/logo_vi_resize.jpg)
+
 以下文件下载于 `vi.shu.edu.cn` （已关站）
 - logo_vi.psd
 - pic1.jpg
